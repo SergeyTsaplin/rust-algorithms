@@ -77,13 +77,6 @@ pub fn mut_sort<T: Ord>(list: &mut Vec<T>) {
         };
         list.insert(index, current_item)
     }
-    for n in (0..(list.len() as isize + 1)).rev() {
-        for m in 1..(n as usize) {
-            if list[m] < list[m - 1] {
-                list.swap(m, m - 1);
-            }
-        }
-    }
 }
 
 #[cfg(test)]
