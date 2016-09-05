@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["mut_sort","Pure implementation of bubble sort algorithm. Side-effects version Modifies input sequense"],["sort","Pure implementation of Bubble sort algorithm"]]});

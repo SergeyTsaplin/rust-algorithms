@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["bubble_sort","Module contains pure implementations of bubble sort algorithm."],["insertion_sort","Module contains pure implementations of insertion sort algorithm."],["utils","Module contains different helpers"]]});

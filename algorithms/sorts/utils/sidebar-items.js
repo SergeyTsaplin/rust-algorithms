@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["is_sorted","Function checks if sequence is sorted"]]});
