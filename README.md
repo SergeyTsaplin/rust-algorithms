@@ -1,9 +1,11 @@
 [![Build Status](https://travis-ci.org/SergeyTsaplin/rust-algorithms.svg)](https://travis-ci.org/SergeyTsaplin/rust-algorithms)
-[![Coverage Status](https://coveralls.io/repos/github/SergeyTsaplin/rust-algorithms/badge.svg?branch=master)](https://coveralls.io/github/SergeyTsaplin/rust-algorithms?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/SergeyTsaplin/rust-algorithms/badge.svg)](https://coveralls.io/github/SergeyTsaplin/rust-algorithms)
 
 # The Algorithms - Rust
 
-Some base algorithms of Computer Science writen in Rust. It's not real project. Just for education and fun
+Some base algorithms of Computer Science writen in Rust. It's not real project. Just for education and fun.
+
+All actual documentation and example you can always find on the [Project page](http://sergeytsaplin.com/rust-algorithms/)
 
 ## Project Structure
 
@@ -47,8 +49,8 @@ Functional tests placed in [`tests`](https://github.com/SergeyTsaplin/rust-algor
 
 ## TODO
 
-- [ ] CI integration
-- [ ] ??? Autodoc building
+- [x] CI integration
+- [x] Autodoc building
 - [ ] Merge sort
 - [ ] Selection sort
 - [ ] Quick sort

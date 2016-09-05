@@ -2,5 +2,11 @@
 name = "algorithms"
 version = "0.1.0"
 authors = ["Sergey Tsaplin <me@sergeytsaplin.com>"]
+documentation = "http://sergeytsaplin.com/rust-algorithms/"
+homepage = "http://sergeytsaplin.com/rust-algorithms/"
+repository = "https://github.com/SergeyTsaplin/rust-algorithms"
+readme = "README.md"
+license = "MIT"
+publish = false
 
 [dependencies]
