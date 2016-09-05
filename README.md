@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/SergeyTsaplin/rust-algorithms.svg)](https://travis-ci.org/SergeyTsaplin/rust-algorithms)
-[![Coverage Status](https://coveralls.io/repos/github/SergeyTsaplin/rust-algorithms/badge.svg)](https://coveralls.io/github/SergeyTsaplin/rust-algorithms)
+[![Coverage Status](https://coveralls.io/repos/github/SergeyTsaplin/rust-algorithms/badge.svg?branch=master)](https://coveralls.io/github/SergeyTsaplin/rust-algorithms?branch=master)
 
 # The Algorithms - Rust
 
